@@ -1,0 +1,27 @@
+classquestions:
+Q1: WAP in C to Find the even numbers till 100.
+Q2: WAP in  C to find the first 100 even numbers.
+Q3: WAP in C to print 100 numbers using while, do while and for loop.
+Q4: WAP in C to find the sum, differences, product and division of 2 numbers.
+Q5: WAP in C to find the area,volume and perimetre of the rectangle.
+Q6: WAP in C to check whether the number is prime or not.
+Q7:WAP in C to find first 100 prime numbers.
+Q8: WAP in C to Whether the number is palindrome or not.
+Q9:WAP in C to Reverse any number.
+Q10: WAP in C to check whether the even or odd.
+Q11: WAP in C to demostrate enum.
+Q12: WAP in C to demostrate continue,break and goto statements.
+Q13: WAP in C to find the grade of a student using if-else statements.
+Q14: WAP in C to demostrate switch statement.
+
+labquestions:
+1. Write a program in C to input two number from user and perform sum, product, subtraction and division.
+2. Write a program in C to calculate simple interest. (Input P,T,R from user)
+3. Write a program in C to calculate area and perimeter of a circle.
+4. Write a program in C to convert (seconds in integer) to hour and mins.
+5. Write a program in C to find ASCII value of given character.
+6. Write a program in C to input a number from User and print it in reverse order.
+7. Write a program in C to find if a number is odd or even.
+8. Write a program in C to find if a number is prime or not.
+
+#NOTE: "Some of the questions in labquestions and classquestions might be same."
